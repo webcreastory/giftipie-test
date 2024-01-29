@@ -15,12 +15,12 @@ const GlobalStyles = createGlobalStyle`
         margin: 0;
         padding: 0;
         border: 0;
-        font-size: 10px;
+        font-size: 100px;
         vertical-align: baseline;
     }
     body{
         line-height: 1;
-        font-family: 'Noto Sans KR', sans-serif;
+        font-family: 'Pretendard', sans-serif;
         background-color: #F6F9F0;
         margin-bottom: 100px;
     }
